@@ -453,7 +453,7 @@ Prefab:
     - target: {fileID: 224387417424422856, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -146.53574
       objectReference: {fileID: 0}
     - target: {fileID: 224387417424422856, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
@@ -463,7 +463,7 @@ Prefab:
     - target: {fileID: 224387417424422856, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 193.07146
       objectReference: {fileID: 0}
     - target: {fileID: 224956095224439448, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
@@ -483,7 +483,7 @@ Prefab:
     - target: {fileID: 224956095224439448, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -426.75006
       objectReference: {fileID: 0}
     - target: {fileID: 224956095224439448, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
@@ -493,7 +493,7 @@ Prefab:
     - target: {fileID: 224956095224439448, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 347.35718
       objectReference: {fileID: 0}
     - target: {fileID: 224176797559053016, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
@@ -513,7 +513,7 @@ Prefab:
     - target: {fileID: 224176797559053016, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -694.82153
       objectReference: {fileID: 0}
     - target: {fileID: 224176797559053016, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
@@ -523,7 +523,7 @@ Prefab:
     - target: {fileID: 224176797559053016, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 168.78574
       objectReference: {fileID: 0}
     - target: {fileID: 224393102066897260, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
@@ -543,7 +543,7 @@ Prefab:
     - target: {fileID: 224393102066897260, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -873.60724
       objectReference: {fileID: 0}
     - target: {fileID: 224393102066897260, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
@@ -553,7 +553,29 @@ Prefab:
     - target: {fileID: 224393102066897260, guid: 896ffcba50358264595f4c6f43f8c226,
         type: 2}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 168.78574
+      objectReference: {fileID: 0}
+    - target: {fileID: 114754241705223386, guid: 896ffcba50358264595f4c6f43f8c226,
+        type: 2}
+      propertyPath: m_Text
+      value: 'Use either the Arrow keys or WASD to move
+
+        Use the mouse to look around
+
+        Click the mouse button to fire
+
+        Press Escape to pause/resume the game
+
+
+        Your goal is to paint all the yellow shapes by shooting them
+
+
+        Have fun!'
+      objectReference: {fileID: 0}
+    - target: {fileID: 114744645363612404, guid: 896ffcba50358264595f4c6f43f8c226,
+        type: 2}
+      propertyPath: m_Text
+      value: Welcome to Paintball!
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 896ffcba50358264595f4c6f43f8c226, type: 2}

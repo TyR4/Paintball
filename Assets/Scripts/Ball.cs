@@ -4,13 +4,12 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour
 {
-    [SerializeField] private float shotVelocity = 3000f;
+    [SerializeField] private readonly float _shotVelocity = 3000f;
     private Rigidbody _rb;
-
-	// Use this for initialization
+    
 	public void Start ()
 	{
 	    _rb = GetComponent<Rigidbody>();
-        _rb.AddForce(transform.forward * shotVelocity);
+        _rb.AddForce(transform.forward * _shotVelocity);
 	}
 }

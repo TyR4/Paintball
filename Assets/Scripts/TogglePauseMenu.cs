@@ -6,7 +6,6 @@ public class TogglePauseMenu : MonoBehaviour
 {
 
     [SerializeField] private GameController _gameController;
-
     [SerializeField] private Transform _pauseMenu;
 
     public void Awake()

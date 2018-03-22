@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_scenes/GameRoom.unity
     guid: 0dc9ab01f840e7f499f62fb055ba7821
+  - enabled: 1
+    path: Assets/_scenes/EndScreen.unity
+    guid: 96f4da1027ea5994ab11b6e0f9633475
